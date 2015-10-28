@@ -45,3 +45,7 @@
 - [artist in emacs](http://www.cinsk.org/emacs/emacs-artist.html)
 - [zenhub.io](https://www.zenhub.io/) a tool to improve Github issue which become boards
 
+## License
+
+MIT
+
